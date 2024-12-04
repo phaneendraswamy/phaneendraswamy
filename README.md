@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @phaneendraswamy
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Data Science
 - 📫 How to reach me https://www.facebook.com/PHANEENDRASWAMI/
 
 <!---
