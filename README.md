@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @phaneendraswamy
+- 👋 Hi, I’m Phaneendraswamy
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me https://www.facebook.com/PHANEENDRASWAMI/
