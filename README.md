@@ -67,24 +67,15 @@
 
 <!--
   NOTE ON IMAGE RELIABILITY:
-  github-readme-stats.vercel.app (the public shared instance) has been
-  going down / rate-limited intermittently since Jan 2026 - that's what
-  was causing your broken images, not your markdown.
-
-  Two safer long-term options instead of relying on the free public API:
-    1. Self-host your own instance (fork github-readme-stats -> deploy
-       to your own free Vercel account with your own GitHub token).
-    2. Use the "GitHub Readme Stats" GitHub Action to generate static
-       SVGs on a schedule and commit them into this repo - zero
-       dependency on any live third-party server.
-
-  Below, the streak stats URL points at a community mirror that's
-  currently up. Swap in your own self-hosted domain once you deploy one.
+  github-readme-stats.vercel.app is no longer maintained - its own repo
+  now says so and points to the successor, GitHub Stats Extended
+  (github-stats-extended.vercel.app), which is a drop-in replacement:
+  same query params, just a different domain. That's what's used below.
 -->
 
 <a href="https://github.com/phaneendraswamy">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=phaneendraswamy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phaneendraswamy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=phaneendraswamy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=phaneendraswamy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </a>
 
 <br><br>
