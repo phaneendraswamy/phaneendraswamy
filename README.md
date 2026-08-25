@@ -63,16 +63,20 @@
 
 ### 📊 GitHub Stats
 
+### ⚙️ GitHub Analytics
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phaneendraswamy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phaneendraswamy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=phaneendraswamy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phaneendraswamy&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=phaneendraswamy&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
-</div>
 
----
+<img src="https://streak-stats.demolab.com?user=phaneendraswamy&theme=tokyonight&hide_border=true&border_radius=5" />
+
+</div>
 
 ### 📫 Connect With Me
 
