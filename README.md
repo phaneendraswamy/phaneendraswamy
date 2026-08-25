@@ -61,22 +61,29 @@
 - 🤖 **Deep Learning** – Transformers, CNNs
 - ⚡ **Go** – High-performance data processing
 
-### 📊 GitHub Stats
-
 ### ⚙️ GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=phaneendraswamy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phaneendraswamy&layout=compact&theme=tokyonight&hide_border=true" />
+<!-- FIXED STATS - No count_private to avoid API block -->
+<a href="https://github.com/phaneendraswamy">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=phaneendraswamy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=phaneendraswamy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</a>
+
+<br><br>
+
+<!-- THIS ONE WAS ALREADY WORKING FOR YOU - 128 / 1 / 2 -->
+<img src="https://streak-stats.demolab.com?user=phaneendraswamy&theme=tokyonight&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+
+<br><br>
+
+<!-- Optional: Full profile details card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phaneendraswamy&theme=tokyonight" />
 
 </div>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=phaneendraswamy&theme=tokyonight&hide_border=true&border_radius=5" />
-
-</div>
+---
 
 ### 📫 Connect With Me
 
@@ -88,8 +95,10 @@
 
 <div align="center">
 
-⭐️ From [phaneendraswamy](https://github.com/phaneendraswamy) - Thanks for visiting!
+⭐️ From <a href="https://github.com/phaneendraswamy">phaneendraswamy</a> - Thanks for visiting!
 
-![Profile Views](https://komarev.com/ghpvc/?username=phaneendraswamy&color=00C9A7&style=flat-square&label=Profile+Views)
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=phaneendraswamy&color=00C9A7&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
 </div>
